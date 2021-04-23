@@ -1,0 +1,45 @@
+#tit {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: center;
+    color: rgb(255, 255, 255);
+}
+#preg {
+    font-family:alegreya-light;
+    font-size:20px;
+    font-weight: bold;
+    color:rgb(224, 224, 224);
+}
+#div_1 p {
+    font-family:sans-serif;
+    font-size:20px;
+    font-weight: bold;
+    color:rgb(255, 255, 255);
+}
+#div_2 p {
+    font-family:sans-serif;
+    font-size:20px;
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+}
+#div_4 p{
+    font-family:sans-serif;
+    font-size:20px;
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+}
+#div_6 p {
+    font-family:sans-serif;
+    font-size:20px;
+    font-weight: bold;
+    color:rgb(100, 100, 100);
+}
+#div_7 a {
+    font-family:sans-serif;
+    font-size:15px;
+    font-weight: bold;
+    color:rgb(25, 0, 255);
+    text-decoration: none; /* para quitar el guion bajo */
+}
